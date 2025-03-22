@@ -7,10 +7,6 @@ def main():
     text_color = input("Gib die Textfarbe als Hex-Wert ein (z.B. '#FFFFFF'): ").strip()
     background_color = input("Gib die Hintergrundfarbe als Hex-Wert ein (z.B. '#000000'): ").strip()
 
-    if not text_color.startswith("#") or not background_color.startswith("#"):
-        print("Fehler: Farben müssen im Hex-Format sein (z.B. '#FFFFFF').")
-        return
-
     print(f"\nGeneriere Dateien für Farbe: {color_name}\n")
 
     generate_color_yml(color_name)
