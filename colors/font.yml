@@ -1,3 +1,45 @@
-bitmaps: []
+bitmaps:
+  letter_clan_blue_bitmap:
+    ascent: 7
+    columns: 6
+    height: 7
+    rows: 8
+    texture: surf/letters/clan_blue/bitmap
+  letter_clan_green_bitmap:
+    ascent: 7
+    columns: 6
+    height: 7
+    rows: 8
+    texture: surf/letters/clan_green/bitmap
+  letter_clan_orange_bitmap:
+    ascent: 7
+    columns: 6
+    height: 7
+    rows: 8
+    texture: surf/letters/clan_orange/bitmap
+  letter_clan_purple_bitmap:
+    ascent: 7
+    columns: 6
+    height: 7
+    rows: 8
+    texture: surf/letters/clan_purple/bitmap
+  letter_clan_red_bitmap:
+    ascent: 7
+    columns: 6
+    height: 7
+    rows: 8
+    texture: surf/letters/clan_red/bitmap
+  letter_clan_white_bitmap:
+    ascent: 7
+    columns: 6
+    height: 7
+    rows: 8
+    texture: surf/letters/clan_white/bitmap
+  letter_clan_yellow_bitmap:
+    ascent: 7
+    columns: 6
+    height: 7
+    rows: 8
+    texture: surf/letters/clan_yellow/bitmap
 settings:
-    automatically_generate: true
+  automatically_generate: true

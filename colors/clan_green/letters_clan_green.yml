@@ -1,0 +1,416 @@
+letter_clan_green_acute_accent:
+    texture: surf/letters/clan_green/acute_accent.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_ampersand:
+    texture: surf/letters/clan_green/ampersand.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_bracket_close:
+    texture: surf/letters/clan_green/bracket_close.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_bracket_open:
+    texture: surf/letters/clan_green/bracket_open.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_circumflex:
+    texture: surf/letters/clan_green/circumflex.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_colon:
+    texture: surf/letters/clan_green/colon.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_comma:
+    texture: surf/letters/clan_green/comma.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_curly_bracket_close:
+    texture: surf/letters/clan_green/curly_bracket_close.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_curly_bracket_open:
+    texture: surf/letters/clan_green/curly_bracket_open.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_degree:
+    texture: surf/letters/clan_green/degree.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_dollar:
+    texture: surf/letters/clan_green/dollar.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_dot:
+    texture: surf/letters/clan_green/dot.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_double_quote:
+    texture: surf/letters/clan_green/double_quote.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_euro:
+    texture: surf/letters/clan_green/euro.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_exclamation_mark:
+    texture: surf/letters/clan_green/exclamation_mark.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_grave_accent:
+    texture: surf/letters/clan_green/grave_accent.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_greater_than:
+    texture: surf/letters/clan_green/greater_than.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_hyphen:
+    texture: surf/letters/clan_green/hyphen.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_less_than:
+    texture: surf/letters/clan_green/less_than.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_pipe:
+    texture: surf/letters/clan_green/pipe.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_question_mark:
+    texture: surf/letters/clan_green/question_mark.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_section:
+    texture: surf/letters/clan_green/section.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_semicolon:
+    texture: surf/letters/clan_green/semicolon.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_single_quote:
+    texture: surf/letters/clan_green/single_quote.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_spacer_one:
+    texture: surf/letters/clan_green/spacer_one.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_spacer_two:
+    texture: surf/letters/clan_green/spacer_two.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_square_bracket_close:
+    texture: surf/letters/clan_green/square_bracket_close.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_square_bracket_open:
+    texture: surf/letters/clan_green/square_bracket_open.png
+    ascent: 7
+    height: 7
+
+letter_clan_green_tilde:
+    texture: surf/letters/clan_green/tilde.png
+    ascent: 7
+    height: 7
+
+# endsection
+
+letter_clan_green_letter_a:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 1
+        column: 1
+
+letter_clan_green_letter_b:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 1
+        column: 2
+
+letter_clan_green_letter_c:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 1
+        column: 3
+
+letter_clan_green_letter_d:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 1
+        column: 4
+
+letter_clan_green_letter_e:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 1
+        column: 5
+
+letter_clan_green_letter_f:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 1
+        column: 6
+
+letter_clan_green_letter_g:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 2
+        column: 1
+
+letter_clan_green_letter_h:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 2
+        column: 2
+
+letter_clan_green_letter_i:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 2
+        column: 3
+
+letter_clan_green_letter_j:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 2
+        column: 4
+
+letter_clan_green_letter_k:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 2
+        column: 5
+
+letter_clan_green_letter_l:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 2
+        column: 6
+
+letter_clan_green_letter_m:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 3
+        column: 1
+
+letter_clan_green_letter_n:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 3
+        column: 2
+
+letter_clan_green_letter_o:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 3
+        column: 3
+
+letter_clan_green_letter_p:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 3
+        column: 4
+
+letter_clan_green_letter_q:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 3
+        column: 5
+
+letter_clan_green_letter_r:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 3
+        column: 6
+
+letter_clan_green_letter_s:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 4
+        column: 1
+
+letter_clan_green_letter_t:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 4
+        column: 2
+
+letter_clan_green_letter_u:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 4
+        column: 3
+
+letter_clan_green_letter_v:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 4
+        column: 4
+
+letter_clan_green_letter_w:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 4
+        column: 5
+
+letter_clan_green_letter_x:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 4
+        column: 6
+
+letter_clan_green_letter_y:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 5
+        column: 1
+
+letter_clan_green_letter_z:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 5
+        column: 2
+
+letter_clan_green_number_0:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 6
+        column: 1
+
+letter_clan_green_number_1:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 6
+        column: 2
+
+letter_clan_green_number_2:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 6
+        column: 3
+
+letter_clan_green_number_3:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 6
+        column: 4
+
+letter_clan_green_number_4:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 6
+        column: 5
+
+letter_clan_green_number_5:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 6
+        column: 6
+
+letter_clan_green_number_6:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 7
+        column: 1
+
+letter_clan_green_number_7:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 7
+        column: 2
+
+letter_clan_green_number_8:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 7
+        column: 3
+
+letter_clan_green_number_9:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 7
+        column: 4
+
+letter_clan_green_plus:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 5
+        column: 3
+
+letter_clan_green_minus:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 5
+        column: 4
+
+letter_clan_green_divide:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 5
+        column: 5
+
+letter_clan_green_backslash:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 5
+        column: 6
+
+letter_clan_green_underscore:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 7
+        column: 5
+
+letter_clan_green_percent:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 7
+        column: 6
+
+letter_clan_green_equals:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 8
+        column: 1
+
+letter_clan_green_hashtag:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 8
+        column: 2
+
+letter_clan_green_multiply:
+    bitmap:
+        id: letter_clan_green_bitmap
+        row: 8
+        column: 3

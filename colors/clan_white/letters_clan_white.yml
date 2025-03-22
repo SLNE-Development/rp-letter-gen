@@ -1,0 +1,416 @@
+letter_clan_white_acute_accent:
+    texture: surf/letters/clan_white/acute_accent.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_ampersand:
+    texture: surf/letters/clan_white/ampersand.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_bracket_close:
+    texture: surf/letters/clan_white/bracket_close.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_bracket_open:
+    texture: surf/letters/clan_white/bracket_open.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_circumflex:
+    texture: surf/letters/clan_white/circumflex.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_colon:
+    texture: surf/letters/clan_white/colon.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_comma:
+    texture: surf/letters/clan_white/comma.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_curly_bracket_close:
+    texture: surf/letters/clan_white/curly_bracket_close.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_curly_bracket_open:
+    texture: surf/letters/clan_white/curly_bracket_open.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_degree:
+    texture: surf/letters/clan_white/degree.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_dollar:
+    texture: surf/letters/clan_white/dollar.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_dot:
+    texture: surf/letters/clan_white/dot.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_double_quote:
+    texture: surf/letters/clan_white/double_quote.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_euro:
+    texture: surf/letters/clan_white/euro.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_exclamation_mark:
+    texture: surf/letters/clan_white/exclamation_mark.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_grave_accent:
+    texture: surf/letters/clan_white/grave_accent.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_greater_than:
+    texture: surf/letters/clan_white/greater_than.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_hyphen:
+    texture: surf/letters/clan_white/hyphen.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_less_than:
+    texture: surf/letters/clan_white/less_than.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_pipe:
+    texture: surf/letters/clan_white/pipe.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_question_mark:
+    texture: surf/letters/clan_white/question_mark.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_section:
+    texture: surf/letters/clan_white/section.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_semicolon:
+    texture: surf/letters/clan_white/semicolon.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_single_quote:
+    texture: surf/letters/clan_white/single_quote.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_spacer_one:
+    texture: surf/letters/clan_white/spacer_one.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_spacer_two:
+    texture: surf/letters/clan_white/spacer_two.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_square_bracket_close:
+    texture: surf/letters/clan_white/square_bracket_close.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_square_bracket_open:
+    texture: surf/letters/clan_white/square_bracket_open.png
+    ascent: 7
+    height: 7
+
+letter_clan_white_tilde:
+    texture: surf/letters/clan_white/tilde.png
+    ascent: 7
+    height: 7
+
+# endsection
+
+letter_clan_white_letter_a:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 1
+        column: 1
+
+letter_clan_white_letter_b:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 1
+        column: 2
+
+letter_clan_white_letter_c:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 1
+        column: 3
+
+letter_clan_white_letter_d:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 1
+        column: 4
+
+letter_clan_white_letter_e:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 1
+        column: 5
+
+letter_clan_white_letter_f:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 1
+        column: 6
+
+letter_clan_white_letter_g:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 2
+        column: 1
+
+letter_clan_white_letter_h:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 2
+        column: 2
+
+letter_clan_white_letter_i:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 2
+        column: 3
+
+letter_clan_white_letter_j:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 2
+        column: 4
+
+letter_clan_white_letter_k:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 2
+        column: 5
+
+letter_clan_white_letter_l:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 2
+        column: 6
+
+letter_clan_white_letter_m:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 3
+        column: 1
+
+letter_clan_white_letter_n:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 3
+        column: 2
+
+letter_clan_white_letter_o:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 3
+        column: 3
+
+letter_clan_white_letter_p:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 3
+        column: 4
+
+letter_clan_white_letter_q:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 3
+        column: 5
+
+letter_clan_white_letter_r:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 3
+        column: 6
+
+letter_clan_white_letter_s:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 4
+        column: 1
+
+letter_clan_white_letter_t:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 4
+        column: 2
+
+letter_clan_white_letter_u:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 4
+        column: 3
+
+letter_clan_white_letter_v:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 4
+        column: 4
+
+letter_clan_white_letter_w:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 4
+        column: 5
+
+letter_clan_white_letter_x:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 4
+        column: 6
+
+letter_clan_white_letter_y:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 5
+        column: 1
+
+letter_clan_white_letter_z:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 5
+        column: 2
+
+letter_clan_white_number_0:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 6
+        column: 1
+
+letter_clan_white_number_1:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 6
+        column: 2
+
+letter_clan_white_number_2:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 6
+        column: 3
+
+letter_clan_white_number_3:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 6
+        column: 4
+
+letter_clan_white_number_4:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 6
+        column: 5
+
+letter_clan_white_number_5:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 6
+        column: 6
+
+letter_clan_white_number_6:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 7
+        column: 1
+
+letter_clan_white_number_7:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 7
+        column: 2
+
+letter_clan_white_number_8:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 7
+        column: 3
+
+letter_clan_white_number_9:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 7
+        column: 4
+
+letter_clan_white_plus:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 5
+        column: 3
+
+letter_clan_white_minus:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 5
+        column: 4
+
+letter_clan_white_divide:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 5
+        column: 5
+
+letter_clan_white_backslash:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 5
+        column: 6
+
+letter_clan_white_underscore:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 7
+        column: 5
+
+letter_clan_white_percent:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 7
+        column: 6
+
+letter_clan_white_equals:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 8
+        column: 1
+
+letter_clan_white_hashtag:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 8
+        column: 2
+
+letter_clan_white_multiply:
+    bitmap:
+        id: letter_clan_white_bitmap
+        row: 8
+        column: 3
